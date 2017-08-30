@@ -20,3 +20,8 @@ __(Company) is being reviewed for a seed stage funding venuture by Dynamo.__
   2. What to be used for
   
   3. Time line of usage
+
+List of Current Companies:
+
+-Einride : Germany
+
