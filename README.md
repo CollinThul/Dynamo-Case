@@ -5,7 +5,7 @@
 
 Case study for Dyanmo Interview by Collin Thul
 
-**(Company) is being reviewed for a seed stage funding venuture by Dynamo. **
+##(Company) is being reviewed for a seed stage funding venuture by Dynamo.##
   
    *Quality of Founding Team*
  
