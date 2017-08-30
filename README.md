@@ -1,8 +1,8 @@
 ![Dynamo Logo](http://dynamo.vc/img/dynamo-fulllogo.png)
 
-Case study for Dynamo Interview  by Collin Thul
 
-![Collin Pic](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAl4AAAAJGJiYThlNTljLWY5YTMtNDkyMS05MTg5LTgxNTZlNzlmNDkwZg.jpg){:height="50%" width="50%"}
+![Collin Pic](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAl4AAAAJGJiYThlNTljLWY5YTMtNDkyMS05MTg5LTgxNTZlNzlmNDkwZg.jpg)
+Case study for Dyanmo Interview by Collin Thul
 
 **(Company) is being reviewed for a seed stage funding venuture by Dynamo. **
   
