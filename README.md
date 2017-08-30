@@ -1,5 +1,4 @@
-[[https://github.com/CollinThul/Dynamo-Case.wiki.git]]
-
+![Dynamo Logo](http://dynamo.vc/img/dynamo-fulllogo.png)
 
 # Dynamo-Case
 Case study for Dynamo Interview 
