@@ -1,3 +1,6 @@
+![Dynamo Logo]
+(https://www.google.com/search?q=Dynamo+vc&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiwh9ypx__VAhVHyyYKHVl2CcUQ_AUIDSgE&biw=725&bih=682#imgrc=x0lTYQHXz6ZbWM:)
+
 # Dynamo-Case
 Case study for Dynamo Interview 
 
