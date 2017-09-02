@@ -2,7 +2,7 @@
 
 
 ![Collin Pic](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAl4AAAAJGJiYThlNTljLWY5YTMtNDkyMS05MTg5LTgxNTZlNzlmNDkwZg.jpg)
-<img src="https://gridwise.io/wp-content/uploads/2017/02/cropped-160905-Gridwise-Logo-REV-500-only2-270x270.png" width="200" height="200" /> ##### H5 Gridwise
+<img src="https://gridwise.io/wp-content/uploads/2017/02/cropped-160905-Gridwise-Logo-REV-500-only2-270x270.png" width="200" height="200" /> #Gridwise
 
 
 Gridwise is a mobile platform for on-demand drivers that improves their earnings and experience around driving. The platform focuses on a few key features: 
