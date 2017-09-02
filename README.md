@@ -2,9 +2,6 @@
 
 
 ![Collin Pic](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAl4AAAAJGJiYThlNTljLWY5YTMtNDkyMS05MTg5LTgxNTZlNzlmNDkwZg.jpg)
-
-Case study for Dyanmo Interview by Collin Thul
-
 <img src="https://pbs.twimg.com/profile_images/862507507469733888/2moJrwMm.jpg" width="200" height="200" />
 __Gridwise is being reviewed for a seed stage funding venuture by Dynamo.__
 
