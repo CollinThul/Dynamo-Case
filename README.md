@@ -8,10 +8,10 @@ Case study for Dyanmo Interview by Collin Thul
 __Gridwise is being reviewed for a seed stage funding venuture by Dynamo.__
 
 Gridwise is a mobile platform for on-demand drivers that improves their earnings and experience around driving. The platform focuses on a few key features: 
-1.	Airport Demand forecasts. This allows drivers to know when flights are landing/leaving and how many passengers are on given flights. 
-1.	Overview of City wide events. Allows awareness of potentially high rider-demand events and activities. 
-1.	Real time Alerts. Provides geographically focused updates on weather, changes in events, and other notable updates that rideshare drivers might be interested in. 
-1.	Driver Taskbar. This central page allows integration of other apps that drivers need into the Gridwise platform. (Show image of dashboard) It shows all the services of Gridwise (airport info, weather, events, etc.) while allowing drivers to quickly access apps like Uber, Lyft, Maps, etc. 
+*Airport Demand forecasts. This allows drivers to know when flights are landing/leaving and how many passengers are on given flights. 
+*Overview of City wide events. Allows awareness of potentially high rider-demand events and activities. 
+*Real time Alerts. Provides geographically focused updates on weather, changes in events, and other notable updates that rideshare drivers might be interested in. 
+*Driver Taskbar. This central page allows integration of other apps that drivers need into the Gridwise platform. (Show image of dashboard) It shows all the services of Gridwise (airport info, weather, events, etc.) while allowing drivers to quickly access apps like Uber, Lyft, Maps, etc. 
 
   
    *Quality of Founding Team*
