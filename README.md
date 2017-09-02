@@ -30,7 +30,8 @@ These two represent the classic entrepreneurial team, with leadership and financ
    The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend.
    
 Gridwise offers its platform in the form of a phone application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android networks. 
-!Dynamo-Case/rideshare.JPG
+!https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG
+
 
 __Find out go to market strategy, and info on CAC__
 __Currently the application is free on the app store. Revenue must be generated through advertisements?__
