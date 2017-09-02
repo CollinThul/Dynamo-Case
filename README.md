@@ -5,7 +5,7 @@
 
 Case study for Dyanmo Interview by Collin Thul
 
-![](https://pbs.twimg.com/profile_images/862507507469733888/2moJrwMm.jpg =100x20) 
+![](https://pbs.twimg.com/profile_images/862507507469733888/2moJrwMm.jpg) { width: 200px; }
 __Gridwise is being reviewed for a seed stage funding venuture by Dynamo.__
 
 Gridwise is a mobile platform for on-demand drivers that improves their earnings and experience around driving. The platform focuses on a few key features: 
