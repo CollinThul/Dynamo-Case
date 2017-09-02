@@ -17,8 +17,11 @@ Gridwise is a mobile platform for on-demand drivers that improves their earnings
    *Quality of Founding Team*
    
 Two incredibly impressive individuals that founded Gridwise, with extremely different backgrounds:
+
 Ryan Green is a military man with a financial background. He attended the United States Naval Academy where he studied economics as well as played division 1 football. He developed real world financial practicality in his time with the Navy as a Finance officer.  Ryan also has experience as an entrepreneur as the Co-Founder of FXConnection, a platform that allowed novice investors to learn and execute foreign exchange trades. The spirit of FXConnection is apparent in Gridwise, as they both exist to empower entrepreneurs to succeed. Ryan has been a leader at every position that he has been in and seems to thrive in those positions. He also has a deep knowledge of finance that he has used to not only lead a Navy company, but to start two companies. https://www.linkedin.com/in/ryanagreen/
+
 Brian Finamore is all of the things that Ryan Green is not. He has an exceptionally strong technical background, with a B.S in Mechanical and Aerospace Engineering from Cornell, and a Masters in Electrical and Computer Engineering from Carnegie Mellon. With 10+ years of experience in the field with top companies such as Boeing and US Airways, Brain appears to be imminently qualified as the CTO of Gridwise. https://www.linkedin.com/in/brian-finamore/
+
 These two represent the classic entrepreneurial team, with leadership and financial expertise in one, and an exceptional mind for technology in the other. They are backed by an impressive technical team of Anthony Corletti as lead engineer, and Olisa Okonkwo as lead UI/UX designer.  (.	 Write more about their relationship once I can get a call with one of them. 														)
 
  
