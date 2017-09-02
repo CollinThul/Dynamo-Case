@@ -2,8 +2,8 @@
 
 
 ![Collin Pic](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAl4AAAAJGJiYThlNTljLWY5YTMtNDkyMS05MTg5LTgxNTZlNzlmNDkwZg.jpg)
-<img src="https://pbs.twimg.com/profile_images/862507507469733888/2moJrwMm.jpg" width="200" height="200" />
-__Gridwise is being reviewed for a seed stage funding venuture by Dynamo.__
+<img src="C:\Users\Collin Thul\Downloads\9fY0hMdSsr7owBxi8nsarPkBEPI1469505553170_524x126" width="500" height="200" />
+
 
 Gridwise is a mobile platform for on-demand drivers that improves their earnings and experience around driving. The platform focuses on a few key features: 
 * Airport Demand forecasts. This allows drivers to know when flights are landing/leaving and how many passengers are on given flights. 
