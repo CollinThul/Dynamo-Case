@@ -26,11 +26,10 @@ These two represent the classic entrepreneurial team, with leadership and financ
  
    *Size and Penetrability of the Market Opportunity*
    
-   The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend in the US. There are also estimated to be well over .
-   
+   The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend in the US. There are also estimated to be well over a million active drivers world wide.
+![](https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG)  
+  
 Gridwise offers its platform in the form of a phone application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android networks. 
-![](https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG)
-
 
 __Find out go to market strategy, and info on CAC__
 __Currently the application is free on the app store. Revenue must be generated through advertisements?__
@@ -43,22 +42,12 @@ Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. 
   
    *The Problem and The Solution*
    
-  The problem that Gridwise exists to solve is that people are not earning enough money in their part time job as ride share drivers. The existence of part time occupations such as Uber driver have come out of the gig economy and its propensity for part time work. Whether this is good or bad is another issue, but the fact of the matter is that drivers that do this as a part time job want to earn more. As these drivers are not full time professionals, they may not know exactly how to maximize their time driving. This is how Gridwise earns drivers more per hour, by showing them when and where they should be driving to maximize pickups and profits. 
+  The problem that Gridwise exists to solve is that people are not earning enough money in their part time job as ride share drivers. The existence of part time occupations such as Uber driver have come out of the gig economy and its propensity for part time work. Whether this is good or bad is another issue, but the fact of the matter is that drivers that do this as a part time job need to earn more. As these drivers are not full time professionals, they may not know exactly how to maximize their time driving. This is how Gridwise earns drivers more per hour, by showing them when and where they should be driving to maximize pickups and profits. According to Gridwise, their drivers earn 30-60% more per week after starting to use the application. 
   
   __More about how they actually know when and where people are going to be places__ 
-  
-  According to Gridwise, their drivers earn 30-60% more per week after starting to use the app. (Need to verify that this is not just because people are driving more….. find out earnings/mile or earnings/hour). 
+   (Need to verify that this is not just because people are driving more….. find out earnings/mile or earnings/hour). 
   __Find out about user #s, partnerships, etc.__
 
   
-   *Investment Size*
-  
-  1. Investment Size
-  
-  $500,000
-  
-  2. What to be used for
-  
-  . Dynamo and its partners would be helpful in fleshing out and implementing their go to market strategy with drivers. There clearly is a solid product market fit, but the implementation of such is not as apparent.  The Dynamo investment will also be used to expand the city offering (not offered in Chattanooga). 
-  
-  3. Time line of usage
+   *Investment Recommendation*
+ 
