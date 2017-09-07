@@ -13,7 +13,7 @@ Gridwise is a mobile platform for on-demand drivers that improves their earnings
 * Driver Taskbar. This central page allows integration of other apps that drivers need into the Gridwise platform. (Show image of dashboard) It shows all the services of Gridwise (airport info, weather, events, etc.) while allowing drivers to quickly access apps like Uber, Lyft, Maps, etc. 
 
   
-  __ *Quality of Founding Team*__
+  __*Quality of Founding Team*__
    
 Two incredibly impressive individuals that founded Gridwise, with extremely different backgrounds:
 
