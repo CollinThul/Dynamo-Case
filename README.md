@@ -13,7 +13,7 @@ Gridwise is a mobile platform for on-demand drivers that improves their earnings
 * Driver Taskbar. This central page allows integration of other apps that drivers need into the Gridwise platform. (Show image of dashboard) It shows all the services of Gridwise (airport info, weather, events, etc.) while allowing drivers to quickly access apps like Uber, Lyft, Maps, etc. 
 
   
-   *Quality of Founding Team*
+  __ *Quality of Founding Team*__
    
 Two incredibly impressive individuals that founded Gridwise, with extremely different backgrounds:
 
@@ -24,7 +24,7 @@ Brian Finamore is all of the things that Ryan Green is not. He has an exceptiona
 These two represent the classic entrepreneurial team, with leadership and financial expertise in one, and an exceptional mind for technology in the other. They are backed by an impressive technical team of Anthony Corletti as lead engineer, and Olisa Okonkwo as lead UI/UX designer.
 
  
-   *Size and Penetrability of the Market Opportunity*
+  __*Size and Penetrability of the Market Opportunity*__
    
    The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend in the US. There are also estimated to be well over a million active drivers world wide.
 ![](https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG)  
@@ -36,22 +36,22 @@ Competition in this market is quite fragmented as drivers traditionally want to 
 Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is doing the same thing as Gridwise in the sense that it is trying to maximize drivers earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
 
   
-   *The Problem and The Solution*
+   __*The Problem and The Solution*__
    
   The problem that Gridwise exists to solve is that people are not earning enough money in their part time job as ride share drivers. The existence of part time occupations such as Uber driver have come out of the gig economy and its propensity for part time work. Whether this is good or bad is another issue, but the fact of the matter is that drivers that do this as a part time job need to earn more. As these drivers are not full time professionals, they may not know exactly how to maximize their time driving. This is how Gridwise earns drivers more per hour, by showing them when and where they should be driving to maximize pickups and profits. According to Gridwise, their drivers earn 30-60% more per week after starting to use the application. 
   
   
-   *Investment Recommendation*
+   __*Investment Recommendation*__
    
    I would not recommend that Dyanamo invest in Gridwise. I find the founding team impressive in background, with complementary skills. However, I believe that there are fundamental issues with the product and market.
    
-1.The product that Gridwise offers does not appear to be easily defended. I cannot speak to the software at this point, but the primary value proposition that is offered by Gridwise can, and has been replicated. This is especially true because Uber and Lyft offer competitive services within their application (ie population hotspots, flight and event info, etc.) which drivers must use. The product offered by Gridwise may be better than what Uber and Lyft offer, but not so much better that people are willing to use a whole other application for a marginal improvement. Over the last two weeks I have taken a number of Uber rides (for fun, and for research). I asked every driver if they have used, or heard of Gridwise. None had, and that was not surprising due to their size. When I explained to the drivers what the application did, I was surprised how tepid the response was. Nearly every driver I spoke to said that they would not want to use a new application if there was something similar to it in the Uber or Lyft app. Many expressed the desire to change applications while driving as little as possible. I thought that was indicative of the fundamental challenge faced by this application.
+1. The product that Gridwise offers does not appear to be easily defended. I cannot speak to the software at this point, but the primary value proposition that is offered by Gridwise can, and has been replicated. This is especially true because Uber and Lyft offer competitive services within their application (ie population hotspots, flight and event info, etc.) which drivers must use. The product offered by Gridwise may be better than what Uber and Lyft offer, but not so much better that people are willing to use a whole other application for a marginal improvement. Over the last two weeks I have taken a number of Uber rides (for fun, and for research). I asked every driver if they have used, or heard of Gridwise. None had, and that was not surprising due to their size. When I explained to the drivers what the application did, I was surprised how tepid the response was. Nearly every driver I spoke to said that they would not want to use a new application if there was something similar to it in the Uber or Lyft app. Many expressed the desire to change applications while driving as little as possible. I thought that was indicative of the fundamental challenge faced by this application.
 
-2.The second problem issue builds on the first. The market for Gridwise is inherently reliant on that of the number of people who use Uber and Lyft. Although this is a growing number of people worldwide, the success of Gridwise is intertwined with the success of the other two. No one besides rideshare drivers have an incentive to use this application, and because of that fact, there is a defined ceiling for growth. 
+2. The second problem issue builds on the first. The market for Gridwise is inherently reliant on that of the number of people who use Uber and Lyft. Although this is a growing number of people worldwide, the success of Gridwise is intertwined with the success of the other two. No one besides rideshare drivers have an incentive to use this application, and because of that fact, there is a defined ceiling for growth. 
 
-3.When looking at applications, especially those who do not charge for their services, it is important to look at the customer acquisition cost and lifetime value. I have reached out to the founders of this company but have not heard back as of this time. I believe that they will face significant challenges in this area because of the churn rate of Uber and Lyft drivers. Even if Gridwise can find an effective low cost way to acquire new customers, it will have a challenge to retain them long enough for them to payoff. According to Ubers own statistics from an internal study, 11% of new drivers stop driving within a month and roughly half quit within a year. If these drivers will no longer need the services of Gridwise after they stop driving, it means that Gridwise will need to continually attract new customers to even maintain a steady customer base. However, the argument can be made that an application that makes rideshare driving much better (ie. Gridwise) could lengthen the period that drivers remain active and thus mitigate this issue through its own existence. The company makes no such claim at this point, but it would be something that I would be worth researching.
+3. When looking at applications, especially those who do not charge for their services, it is important to look at the customer acquisition cost and lifetime value. I have reached out to the founders of this company but have not heard back as of this time. I believe that they will face significant challenges in this area because of the churn rate of Uber and Lyft drivers. Even if Gridwise can find an effective low cost way to acquire new customers, it will have a challenge to retain them long enough for them to payoff. According to Ubers own statistics from an internal study, 11% of new drivers stop driving within a month and roughly half quit within a year. If these drivers will no longer need the services of Gridwise after they stop driving, it means that Gridwise will need to continually attract new customers to even maintain a steady customer base. However, the argument can be made that an application that makes rideshare driving much better (ie. Gridwise) could lengthen the period that drivers remain active and thus mitigate this issue through its own existence. The company makes no such claim at this point, but it would be something that I would be worth researching.
 
-Questions I would like to find out that I have not been able to thus far. 
+__Questions I would like to find out that I have not been able to thus far.__ 
 
 What is their estimated CAC?
 
