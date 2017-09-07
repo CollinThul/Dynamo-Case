@@ -21,12 +21,12 @@ Ryan Green is a military man with a financial background. He attended the United
 
 Brian Finamore is all of the things that Ryan Green is not. He has an exceptionally strong technical background, with a B.S in Mechanical and Aerospace Engineering from Cornell, and a Masters in Electrical and Computer Engineering from Carnegie Mellon. With 10+ years of experience in the field with top companies such as Boeing and US Airways, Brain appears to be imminently qualified as the CTO of Gridwise. https://www.linkedin.com/in/brian-finamore/
 
-These two represent the classic entrepreneurial team, with leadership and financial expertise in one, and an exceptional mind for technology in the other. They are backed by an impressive technical team of Anthony Corletti as lead engineer, and Olisa Okonkwo as lead UI/UX designer.  (.	 Write more about their relationship once I can get a call with one of them. 														)
+These two represent the classic entrepreneurial team, with leadership and financial expertise in one, and an exceptional mind for technology in the other. They are backed by an impressive technical team of Anthony Corletti as lead engineer, and Olisa Okonkwo as lead UI/UX designer.
 
  
    *Size and Penetrability of the Market Opportunity*
    
-   The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend.
+   The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend in the US. There are also estimated to be well over .
    
 Gridwise offers its platform in the form of a phone application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android networks. 
 ![](https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG)
@@ -36,9 +36,9 @@ __Find out go to market strategy, and info on CAC__
 __Currently the application is free on the app store. Revenue must be generated through advertisements?__
 __Is it sticky? How long do people stay on the app (hours/day and months)__ 
 
-Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc.  Gridwise allows for access to all of these, while operating on their platform which provides drivers unique capabilities such as their flight and event information. 
+Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc.  Gridwise allows for access to all of these.
 
-Key competitor to Gridwise is Mystro. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is doing the same thing as Gridwise in the sense that it is trying to maximize drivers time and earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
+Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is doing the same thing as Gridwise in the sense that it is trying to maximize drivers earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
 
   
    *The Problem and The Solution*
