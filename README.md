@@ -6,22 +6,20 @@
 # Gridwise
 
 
-Gridwise is a mobile platform for on-demand drivers that improves their earnings and experience around driving. The platform focuses on a few key features: 
-* Airport Demand forecasts. This allows drivers to know when flights are landing/leaving and how many passengers are on given flights. 
-* Overview of City wide events. Allows awareness of potentially high rider-demand events and activities. 
-* Real time Alerts. Provides geographically focused updates on weather, changes in events, and other notable updates that rideshare drivers might be interested in. 
-* Driver Taskbar. This central page allows integration of other apps that drivers need into the Gridwise platform. (Show image of dashboard) It shows all the services of Gridwise (airport info, weather, events, etc.) while allowing drivers to quickly access apps like Uber, Lyft, Maps, etc. 
+Gridwise is a mobile platform for rideshare drivers that improves their earnings and experience around driving. The platform focuses on a few key features: 
+* __Airport Demand Forecasts.__ Spend less time waiting for trips to and from the airport by knowing exactly how many passengers are arriving and departing. 
+* __Overview of City Wide Events.__ Increase your daily number of trips by staying aware of potentially high rider-demand events and activities happening in your city. 
+* __Real time Alerts__. Stay abreast of happenings near you, with real-time alerts on event updates, weather information in your city, and peak periods of airport traffic volumes.  
+* __Driver Taskbar.__ From one central location, easily navigate between apps you use most oftern while driving; including your rideshare, navigation, and also the Gridwise app. 
 
   
 __*Quality of Founding Team*__
-   
-Two incredibly impressive individuals that founded Gridwise, with extremely different backgrounds:
 
-Ryan Green is a military man with a financial background. He attended the United States Naval Academy where he studied economics as well as played division 1 football. He developed real world financial practicality in his time with the Navy as a Finance officer.  Ryan also has experience as an entrepreneur as the Co-Founder of FXConnection, a platform that allowed novice investors to learn and execute foreign exchange trades. The spirit of FXConnection is apparent in Gridwise, as they both exist to empower entrepreneurs to succeed. Ryan has been a leader at every position that he has been in and seems to thrive in those positions. He also has a deep knowledge of finance that he has used to not only lead a Navy company, but to start two companies. https://www.linkedin.com/in/ryanagreen/
+Ryan Green attended the United States Naval Academy where he studied economics as well as playing division 1 football. He developed real world financial practicality in his time with the Navy as a Finance officer.  Ryan also has experience as an entrepreneur as the Co-Founder of FXConnection, a platform that allowed novice investors to learn and execute foreign exchange trades, while at the Naval Academey. The spirit of FXConnection is apparent in Gridwise, as they both exist to empower entrepreneurs to succeed. Ryan has been a leader in many different positions, and  gives me confidence that he can lead a successful company. https://www.linkedin.com/in/ryanagreen/
 
-Brian Finamore is all of the things that Ryan Green is not. He has an exceptionally strong technical background, with a B.S in Mechanical and Aerospace Engineering from Cornell, and a Masters in Electrical and Computer Engineering from Carnegie Mellon. With 10+ years of experience in the field with top companies such as Boeing and US Airways, Brain appears to be imminently qualified as the CTO of Gridwise. https://www.linkedin.com/in/brian-finamore/
+Brian Finamore complements Ryan with a very different skill set. He has an exceptionally strong technical background, with a B.S in Mechanical and Aerospace Engineering from Cornell, and a Masters in Electrical and Computer Engineering from Carnegie Mellon. With 10+ years of experience in the field with top companies such as Boeing and US Airways, Brain appears to be imminently qualified as the CTO of Gridwise. https://www.linkedin.com/in/brian-finamore/
 
-These two represent the classic entrepreneurial team, with leadership and financial expertise in one, and an exceptional mind for technology in the other. They are backed by an impressive technical team of Anthony Corletti as lead engineer, and Olisa Okonkwo as lead UI/UX designer.
+These two represent the classic entrepreneurial team, with leadership and financial expertise in one, and an exceptional mind for technology in the other. 
 
  
   __*Size and Penetrability of the Market Opportunity*__
