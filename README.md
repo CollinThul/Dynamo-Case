@@ -28,16 +28,18 @@ These two represent the classic entrepreneurial team, with leadership and financ
    
 ![](https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG)
   
-Gridwise offers its platform in the form of a phone application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android networks. 
-
-Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc.  Gridwise allows for access to all of these quickly through their dashboard. ![](https://github.com/CollinThul/Dynamo-Case/blob/master/gridwise1.JPG?raw=true)
-
-Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is attempting to solve the same problem as Gridwise in the sense that it is trying to maximize driver's earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
+Gridwise offers its platform in the form of a mobile application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android operating systems. 
 
   
    __*The Problem and The Solution*__
    
   The problem that Gridwise exists to solve is that people are not earning enough money in their part time job as ride share drivers. The existence of part time occupations such as Uber driver have come out of the gig economy and its propensity for part time work. Whether this is good or bad is another issue, but the fact of the matter is that drivers that do this as a part time job need to earn more. As these drivers are not full time professionals, they may not know exactly how to maximize their time driving. This is how Gridwise earns drivers more per hour, by showing them when and where they should be driving to maximize pickups and profits. According to Gridwise, their drivers earn 30-60% more per week after starting to use the application. 
+  
+Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc. One of Gridwise's value propositions to drivers is that it allows for access to all of these apps quickly through their dashboard.
+
+![](https://github.com/CollinThul/Dynamo-Case/blob/master/gridwise1.JPG?raw=true)
+
+Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is attempting to solve the same problem as Gridwise in the sense that it is trying to maximize driver's earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. Mystro is currently working on moving their platform onto iOS, so I dont think the competitive advantage in this arena will last long for Gridwise.
   
   
    __*Investment Recommendation*__
