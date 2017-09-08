@@ -24,14 +24,14 @@ These two represent the classic entrepreneurial team, with leadership and financ
  
   __*Size and Penetrability of the Market Opportunity*__
    
-   The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend in the US. There are also estimated to be well over a million active drivers world wide.
+   The primary market for Gridwise is ride-sharing drivers in the United States. The number of exact drivers in this market is difficult to nail down due to churn and the part time nature of the job. However, the Brookings institute estimates that as of the end of 2015 there were ~563,400 drivers operating in the United States with 92% of them operating in the 100 largest cities. Currently Gridwise is offered in Pittsburg and D.C.  This represents a 63% increase year over year, and shows an acceleration of an already impressive growth trend in the US. There are also estimated to be well over a million active drivers worldwide. Although there has been growth in the driver market, both Lyft and Uber are actively trying to eliminate the need for drivers through the implementation of autonomous cars. Lyft has paired with Waymo and General Motors, while Uber is working with Daimler and Carnegie Mellon. 
 ![](https://raw.githubusercontent.com/CollinThul/Dynamo-Case/master/rideshare.JPG)  
   
 Gridwise offers its platform in the form of a phone application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android networks. 
 
 Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc.  Gridwise allows for access to all of these.
 
-Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is doing the same thing as Gridwise in the sense that it is trying to maximize drivers earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
+Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is attempting to solve the same problem as Gridwise in the sense that it is trying to maximize driver's earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
 
   
    __*The Problem and The Solution*__
