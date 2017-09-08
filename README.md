@@ -29,7 +29,7 @@ These two represent the classic entrepreneurial team, with leadership and financ
   
 Gridwise offers its platform in the form of a phone application. As having an internet enabled phone is nearly a prerequisite for driving for a ride sharing company, there is no impediment for integration via hardware. The application is already offered through the app store, both in the Apple and Android networks. 
 
-Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc.  Gridwise allows for access to all of these quickly through their dashboard. 
+Competition in this market is quite fragmented as drivers traditionally want to use the best apps possible to do each function, ie. Weather.com for weather, pandora for music, google maps for GPS, Uber/Lyft for pickup, twitter for information etc.  Gridwise allows for access to all of these quickly through their dashboard. ![](https://github.com/CollinThul/Dynamo-Case/blob/master/gridwise1.JPG?raw=true)
 
 Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. Mystro exists primarily to allow drivers to work for Lyft and Uber simultaneously. Although it is a slightly different product, it is attempting to solve the same problem as Gridwise in the sense that it is trying to maximize driver's earnings. However, Mystro currently is not offered for iPhones and does not offer the key information of where possible riders are congregating. 
 
