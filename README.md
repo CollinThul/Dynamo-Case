@@ -55,7 +55,7 @@ Key competitors to Gridwise are Mystro, Lyft for drivers, and Uber for drivers. 
 
 3. When looking at applications, especially those who do not charge for their services, it is important to look at the customer acquisition cost and lifetime value. I believe that they will face significant challenges in this area because of the churn rate of Uber and Lyft drivers. Even if Gridwise can find an effective low cost way to acquire new customers, it will have a challenge to retain them long enough for them to payoff. According to an Uber internal study, 11% of new drivers stop driving within a month and roughly half quit within a year. If these drivers will no longer need the services of Gridwise after they stop driving, it means that Gridwise will need to continually attract new customers to even maintain a steady customer base. However, the argument can be made that an application that makes rideshare driving much better (ie. Gridwise) could lengthen the period that drivers remain active and thus mitigate this issue through its own existence. The company makes no such claim at this point, but it would be something that I think would be worth researching.
 
-__Questions I would like to find out that I have not been able to thus far.__ 
+__Questions I would like to find out, that I have not been able to thus far.__ 
 
 What is their estimated CAC?
 
